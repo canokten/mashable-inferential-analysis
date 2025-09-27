@@ -2,7 +2,7 @@
 
 I published a write-up of this analysis on Medium.
 
-👉 (Inferential Analysis Insights on Article Features and Popularity: Technology vs. Entertainment)[https://medium.com/@canokten/inferential-analysis-insights-on-article-features-and-popularity-technology-vs-entertainment-c4531327fb42]
+👉 (Inferential Analysis Insights on Article Features and Popularity - Technology vs. Entertainment)[https://medium.com/@canokten/inferential-analysis-insights-on-article-features-and-popularity-technology-vs-entertainment-c4531327fb42]
 
 This article explains the methodology (Negative Binomial Regression and GAMs), results, and key takeaways from the project in a more accessible format. 
 
